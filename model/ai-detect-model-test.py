@@ -24,14 +24,25 @@ def classify_image(image_path):
 
 def process_directory(directory):
     results = {'total': 0, 'correct': 0}
+    predictions = []
     for filename in os.listdir(directory):
         if filename.lower().endswith('.jpg') or filename.lower().endswith('.png'):  # Check file extension
             image_path = os.path.join(directory, filename)
             is_real = 'real' in directory
-            is_classified_as_real = classify_image(image_path)
+            confidence = predict_image(image_path)
+            is_classified_as_real = confidence > 0.50
             results['total'] += 1
             if is_real == is_classified_as_real:
                 results['correct'] += 1
+            # Store the prediction details
+            predictions.append({
+                'file': filename,
+                'directory': os.path.basename(directory),
+                'confidence': float(confidence)  # Ensure the confidence is JSON serializable
+            })
+    # Append results and predictions to a JSON file
+    with open('detailed_classification_results.json', 'w') as outfile:
+        json.dump(predictions, outfile, indent=4)
     return results
 
 def main():
@@ -42,8 +53,8 @@ def main():
         dir_name = os.path.basename(directory)
         results[dir_name] = process_directory(directory)
 
-    # Output results to a JSON file
-    with open('classification_results.json', 'w') as outfile:
-        json.dump(results, outfile, indent=4)
+    # Optionally, also save a summary of results
+    with open('summary_classification_results.json', 'w') as summary_outfile:
+        json.dump(results, summary_outfile, indent=4)
 
 main()
