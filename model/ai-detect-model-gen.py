@@ -6,7 +6,23 @@ from PIL import Image
 Image.MAX_IMAGE_PIXELS = 1000000000 
 
 # Step 1: Set up data generators for training and validation sets
+train_datagen = ImageDataGenerator(
+    rescale=1./255,
+    validation_split=0.2,
+    rotation_range=20,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    shear_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True,
+    fill_mode='nearest'
+)
+
+'''
+rudimentary imagedatagen parameters, modified with a mix of parameters found online.
+
 train_datagen = ImageDataGenerator(rescale=1./255, validation_split=0.2)
+'''
 
 train_generator = train_datagen.flow_from_directory(
     './dataset/', 
@@ -22,6 +38,26 @@ validation_generator = train_datagen.flow_from_directory(
     class_mode='binary',
     subset='validation')
 
+# Updated Model Architecture with Dropout
+model = models.Sequential([
+    layers.Conv2D(32, (3, 3), activation='relu', input_shape=(64, 64, 3)),
+    layers.MaxPooling2D((2, 2)),
+    layers.Conv2D(64, (3, 3), activation='relu'),
+    layers.MaxPooling2D((2, 2)),
+    layers.Dropout(0.25),  # Adding Dropout
+    layers.Conv2D(128, (3, 3), activation='relu'),
+    layers.MaxPooling2D((2, 2)),
+    layers.Conv2D(128, (3, 3), activation='relu'),
+    layers.MaxPooling2D((2, 2)),
+    layers.Flatten(),
+    layers.Dense(512, activation='relu'),
+    layers.Dropout(0.5),  # Adding Dropout
+    layers.Dense(1, activation='sigmoid')
+])
+
+'''
+this resulted in the high ai skew for all images, modifying with drop out.
+
 # Step 2: Build the CNN model
 model = models.Sequential([
     layers.Conv2D(32, (3, 3), activation='relu', input_shape=(64, 64, 3)),
@@ -36,6 +72,7 @@ model = models.Sequential([
     layers.Dense(512, activation='relu'),
     layers.Dense(1, activation='sigmoid')
 ])
+'''
 
 model.compile(optimizer='adam',
               loss='binary_crossentropy',
