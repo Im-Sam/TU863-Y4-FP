@@ -1,27 +1,30 @@
 import tensorflow as tf
+import keras
 from tensorflow.keras import layers, models
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from PIL import Image 
+Image.MAX_IMAGE_PIXELS = 1000000000 
 
 # Step 1: Set up data generators for training and validation sets
 train_datagen = ImageDataGenerator(rescale=1./255, validation_split=0.2)
 
 train_generator = train_datagen.flow_from_directory(
-    'dataset/', 
-    target_size=(64, 64),  # Updated to downsize images to 64x64
+    './dataset/', 
+    target_size=(64, 64),
     batch_size=64,
     class_mode='binary',
     subset='training')
 
 validation_generator = train_datagen.flow_from_directory(
-    'dataset/',
-    target_size=(64, 64),  # Updated to downsize images to 64x64
+    './dataset/',
+    target_size=(64, 64),
     batch_size=64,
     class_mode='binary',
     subset='validation')
 
 # Step 2: Build the CNN model
 model = models.Sequential([
-    layers.Conv2D(32, (3, 3), activation='relu', input_shape=(64, 64, 3)),  # Updated input shape
+    layers.Conv2D(32, (3, 3), activation='relu', input_shape=(64, 64, 3)),
     layers.MaxPooling2D((2, 2)),
     layers.Conv2D(64, (3, 3), activation='relu'),
     layers.MaxPooling2D((2, 2)),
@@ -38,13 +41,13 @@ model.compile(optimizer='adam',
               loss='binary_crossentropy',
               metrics=['accuracy'])
 
-# Step 3: Train the model
+# Step 3: Train the modelQ
 history = model.fit(
     train_generator,
-    steps_per_epoch=260, # Adjusted according to new calculations if needed
-    epochs=30, # Set the number of epochs
+    steps_per_epoch=90, #260
+    epochs=20, #30
     validation_data=validation_generator,
-    validation_steps=65) # Adjusted according to new calculations if needed
+    validation_steps=25) #65
 
 model.summary()
 
