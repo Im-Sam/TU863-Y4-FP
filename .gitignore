@@ -2,3 +2,4 @@ new/input/*
 new/models/*
 new/input-archive/*
 new/dataset/*
+*.h5

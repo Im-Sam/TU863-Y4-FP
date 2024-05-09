@@ -1,0 +1,1448 @@
+[
+    {
+        "image_path": "./input/ai_generated\\.amazonaws.com2Fpublic2Fimages2Ff89de3bb-279b-42c9-9822-a653fb5b21e6_600x480.png",
+        "confidence": 0.999788761138916,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\0002_AI-in-animal-classification.png",
+        "confidence": 0.9984831213951111,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\00urban_biodiversity_landscape_architecture_14ed209d-45ca-4c57-b995-4d1552813cc1.jpg",
+        "confidence": 0.015280165709555149,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\03a3gbCKfH8dDJnjhHLuHDf-1.fit_lim.v1665523315.png",
+        "confidence": 0.0629749447107315,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\06as5rHi0sgG4W2Tq.png",
+        "confidence": 0.013620919547975063,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\06db055c-ai-hallucination-rag-1024x688.jpg",
+        "confidence": 0.260565847158432,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\07-the-coffee-service-hossaini-art-ai.x3e656121.png",
+        "confidence": 0.4961099326610565,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\07IHO-LENSA-TOPART-articleLarge.jpg",
+        "confidence": 2.5374065444339067e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\08_No-more-lost-in-translation.jpg",
+        "confidence": 0.9999925494194031,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\0EAwg7WIIMhgnSfLf.png",
+        "confidence": 0.9965320825576782,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\0qL4hrXp-V_NW-FR-.jpg",
+        "confidence": 0.0008283360511995852,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1-trippy-cubism-psychedelic-fun-cocktails-mojitos-ai-generated-olfactoart-studio.jpg",
+        "confidence": 0.9613350033760071,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_551420122_DMVybsWtGw1kS6ogwlk66jcm78PmUIgn.jpg",
+        "confidence": 0.011502563953399658,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_555746402_GNMEIKpEuTIXooW5B1SEEy7VnK3rklI5.jpg",
+        "confidence": 0.8670955896377563,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_557173172_OZOK6P7w9PBUajB5n9YKcGlvMYumKKaL.jpg",
+        "confidence": 0.00023834733292460442,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_561457876_KjtqRhGC0EqEr1G7OaLgn1tjWW38Z2bI.jpg",
+        "confidence": 0.01564950868487358,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_563719058_JXnzcPV4GRpWqmF5sqnqmbJ7ow3ca3DS.jpg",
+        "confidence": 0.006431919988244772,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_564265464_mp9OwlBNexenRBJcwg5qhCwOxr4TC3gk.jpg",
+        "confidence": 0.37410709261894226,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_570271411_Tqbdg5z0mL3qV3eaDS0XGrjMMwk6aNTf.jpg",
+        "confidence": 2.1032906261098105e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_588347899_rcxPfuXCi7gXABcOl1TuboinIVfa6ggf.jpg",
+        "confidence": 0.010318223387002945,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1000_F_609715304_7ejZLzTd3JM94FT5O5jHEkI3pE9PTgZR.jpg",
+        "confidence": 0.17124883830547333,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\13-3.png",
+        "confidence": 7.463028305210173e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1440_AI_and_animal_language_feat.jpg",
+        "confidence": 0.6479513645172119,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1440_AI_and_animal_lang_spotted_naked_mole_rat.jpg",
+        "confidence": 0.9871442914009094,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\14PMNtflOIXcw4g9HTntybg.png",
+        "confidence": 1.9470364520657313e-07,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\15G9ADdejiQlTQc0UxNt3Cg.png",
+        "confidence": 0.057601019740104675,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\185bbf9f7bf9e5d1df18aa782d7ddcd2.jpg",
+        "confidence": 5.811200935568195e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\188PNRFVDD0f9aTkdz34WYA.png",
+        "confidence": 0.00017163027951028198,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\19lv0WF2Fpg5AVtefTvLQJA.png",
+        "confidence": 0.16683664917945862,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1ayKvyXsQfIHS7OOCswZA1g.png",
+        "confidence": 0.2638900876045227,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1BoIwK3flsWLkT57s18Bpgg.png",
+        "confidence": 0.00016412112745456398,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1btbVIzhV6dASEHy6bJmJHA.png",
+        "confidence": 6.27378369699727e-07,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1ddpDkJ0Zx4D37qoUehikeg.png",
+        "confidence": 0.008034893311560154,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1DUblwf5wpci3hVlmG4ZnDw.png",
+        "confidence": 0.0395626425743103,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1E9WJo1jFlzdGVuFhb4BdQw.png",
+        "confidence": 0.7671546339988708,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1EOlo-3uyfHVlEE649tq62g.png",
+        "confidence": 0.9960088133811951,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1fQEPjVkihxmK4iRm8dyVcA.png",
+        "confidence": 2.300455525983125e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1If0feu29zDCd9QIWw-vG9Q.png",
+        "confidence": 0.0027090851217508316,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1IGvTkw48FTa1pO33VbG4eA.png",
+        "confidence": 0.9980859160423279,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1JfLNu1-TgkKhhX-e_FgpOA.png",
+        "confidence": 0.005897083785384893,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1lYr05XDF4i_da6eQZ0C6yw.png",
+        "confidence": 0.7941505312919617,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1Mcde2p8rG0uUjwwQ-tGWLg.png",
+        "confidence": 0.18553054332733154,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1MhC86XK2wg6AC30Wm2ZiEw.png",
+        "confidence": 1.170642008219147e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1OeeE1RRVpzeCUyD030s8Kg.png",
+        "confidence": 9.533394906835468e-11,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1OEipycyFugvcLmEh2_zINQ.png",
+        "confidence": 0.009822809137403965,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1pTojVbbfa1akdP6JfX0hHA.png",
+        "confidence": 0.0005052207852713764,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1RXHJgL-Sfrm3OoCyiYYhtQ.png",
+        "confidence": 0.016998937353491783,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\1sTXgMwDUW0pk-1yK4iHYFw.png",
+        "confidence": 0.9966238737106323,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1u7_j9GJ8BuLJv529Og-Tgg.png",
+        "confidence": 0.761992871761322,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\1WA1ZUTaiGV9YO5lVEPPFhA.png",
+        "confidence": 0.00814965832978487,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\2022-11-10-image-12.jpg",
+        "confidence": 0.9999153017997742,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\22-23-3-17-17-51-3m.jpg",
+        "confidence": 0.0002307105460204184,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\22acc109-736b-480c-a6f7-8ee4e0fc61ed.jpg",
+        "confidence": 0.0014876703498885036,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\23uQhgmcFTBQitCwze2wBYPCFjkCmfPzxWbygzom3YM8S8Wz5BKkMsE1NXtEq1DcZuWQS.png",
+        "confidence": 5.602351393463323e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\24-AI-FACES-QUIZ-HP-PROMO-COVER-copy-articleLarge-v3.png",
+        "confidence": 2.1712807551921287e-07,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\24jo7tag_a-delhi-and-mumbai-woman-depicted-in-the-aigenerated-artwork_625x300_29_December_22.jpg",
+        "confidence": 0.532288670539856,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\2A8oNV0baUgW9iGIEk1X.jpg",
+        "confidence": 0.7407596707344055,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\2K65J19-2.jpg",
+        "confidence": 0.029418567195534706,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\394d68ba91ee4f49d400034d8d487997.jpg",
+        "confidence": 0.9860180020332336,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\3c958e87e755ddec3003722eb91e787a.jpg",
+        "confidence": 0.06259019672870636,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\3e9bc32a-1d77-4f0a-b0df-199c80060385-1024x1024.jpg",
+        "confidence": 1.7292755671860505e-08,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\3eb2e6d3-6ab8-445e-beb2-afdadb30afbd.jpg",
+        "confidence": 0.15673531591892242,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\3FUI5P53A5JRLCB432NGJMWTMU.jpg",
+        "confidence": 0.15031932294368744,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\3UzfFUqU5NuCDJYtoNMaUf-1200-80.jpg",
+        "confidence": 0.055668868124485016,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\403e1ee688f55ae08740e13dbcaae5633f7c1d3a-4032x2268.jpg",
+        "confidence": 0.46310141682624817,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\41b6d9592db18a15b1e32dfd50.jpg",
+        "confidence": 1.0,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\43div2to_animal-selfies_625x300_03_April_23.jpg",
+        "confidence": 0.01049833558499813,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\4D0B10FA-D43F-427A-8F12-084A42A52081-63ef4da8f2ef6-jpeg__700.jpg",
+        "confidence": 0.7739951014518738,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\4hPwM82KpnA0Rie1400A.jpg",
+        "confidence": 0.1903442144393921,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\4m8ul9jg_kings-ai_625x300_27_January_23.jpg",
+        "confidence": 0.7674044370651245,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\529D7B2E-8BBA-4082-9CF3-871EC70DB41D-63f30f8004ece-jpeg__700.jpg",
+        "confidence": 0.36904555559158325,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\59e0ba50419705a2c4b22681fb.jpg",
+        "confidence": 0.00031470757676288486,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\5d395cf120e51-ai-transforms-celebrities-photo-into-old-portraits-paintings-5d380c2ebd006__700.jpg",
+        "confidence": 0.08174464106559753,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\5d395cf1a43bd-ai-transforms-celebrities-photo-into-old-portraits-paintings-5d380beb228da__700.jpg",
+        "confidence": 0.3960977792739868,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\5d395cf1e10ca-ai-transforms-celebrities-photo-into-old-portraits-paintings-5d380c3722b84__700.jpg",
+        "confidence": 0.1502012014389038,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\62bf08968c2d68a06b1c7182_image9201-min.jpg",
+        "confidence": 0.0383814312517643,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\640px-22Mona_Lisa22_with_DeepDream_effect_using_VGG16_network_trained_on_ImageNet.jpg",
+        "confidence": 0.3484559655189514,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\64dccffa6728f2a276286964_can-ai-generated-content-rank-on-google.jpg",
+        "confidence": 0.07898766547441483,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\65b2f49a8e6bfcb8d19eed88898da02d.jpg",
+        "confidence": 0.6104086637496948,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\71AlaLQNBuL._AC_UF10001000_QL80_.jpg",
+        "confidence": 1.2935673794345348e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\71SjWeOHKjL._AC_UF10001000_QL80_.jpg",
+        "confidence": 0.9722113609313965,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\737a36cc-c873-4451-90a5-271f2eae7778_landing-ai-portrait-img-3.png",
+        "confidence": 0.29528558254241943,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\79ee7c59b0b2a08f9438487b729469ae.jpg",
+        "confidence": 0.20120368897914886,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\7e644b89-cd82-440c-8836-9a9300c97672.jpg",
+        "confidence": 0.0008635650738142431,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\8A9FC0D0-D02D-4909-8E7B90874F98DBF2_source.jpg",
+        "confidence": 0.9220936298370361,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\959b0e7558d409e409de7e789d18e026.jpg",
+        "confidence": 0.014162843115627766,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\960x0.jpg",
+        "confidence": 1.2648589290620293e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\960x02.png",
+        "confidence": 2.7024032078770688e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image100.jpg",
+        "confidence": 0.0029734699055552483,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1001.jpg",
+        "confidence": 0.3191368281841278,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1003.jpg",
+        "confidence": 0.8634136319160461,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1013.jpg",
+        "confidence": 3.595167754610884e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1030.jpg",
+        "confidence": 5.781808795290999e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1060.jpg",
+        "confidence": 0.03580080345273018,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1134.jpg",
+        "confidence": 0.0057428875006735325,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1146.jpg",
+        "confidence": 0.22433342039585114,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1178.jpg",
+        "confidence": 0.9974258542060852,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1227.jpg",
+        "confidence": 0.0015389397740364075,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1248.jpg",
+        "confidence": 0.006274494342505932,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1252.jpg",
+        "confidence": 0.06416047364473343,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1299.jpg",
+        "confidence": 0.0014216054696589708,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1302.jpg",
+        "confidence": 2.904720908247782e-08,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1339.jpg",
+        "confidence": 0.9934414625167847,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image134.jpg",
+        "confidence": 1.936473807973016e-07,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1358.jpg",
+        "confidence": 5.179763284957062e-09,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1375.jpg",
+        "confidence": 0.13992296159267426,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1386.jpg",
+        "confidence": 0.0019505826057866216,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1400.jpg",
+        "confidence": 0.2771633267402649,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1519.jpg",
+        "confidence": 0.4582829773426056,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1535.jpg",
+        "confidence": 1.3642742260344676e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1565.jpg",
+        "confidence": 0.5221448540687561,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1577.jpg",
+        "confidence": 1.7657957869232632e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1584.jpg",
+        "confidence": 1.8207942206922845e-13,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1587.jpg",
+        "confidence": 0.0034387933555990458,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image16.jpg",
+        "confidence": 0.49588683247566223,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1654.jpg",
+        "confidence": 1.0127043518007306e-12,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1699.jpg",
+        "confidence": 0.9128373861312866,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1740.jpg",
+        "confidence": 0.06724745035171509,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1778.jpg",
+        "confidence": 1.953111627983617e-08,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1786.jpg",
+        "confidence": 1.5106618178606368e-08,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1806.jpg",
+        "confidence": 0.00576991681009531,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1807.jpg",
+        "confidence": 0.027423454448580742,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1811.jpg",
+        "confidence": 0.003733493620529771,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1857.jpg",
+        "confidence": 4.126034582441207e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1891.jpg",
+        "confidence": 0.015409853309392929,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1903.jpg",
+        "confidence": 1.82661477055035e-08,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1911.jpg",
+        "confidence": 0.9960339069366455,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1912.jpg",
+        "confidence": 0.8119822144508362,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1932.jpg",
+        "confidence": 0.18428106606006622,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1937.jpg",
+        "confidence": 2.0620944269467145e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1941.jpg",
+        "confidence": 0.4946526885032654,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image196.jpg",
+        "confidence": 0.00010641424887580797,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1980.jpg",
+        "confidence": 4.827879365620902e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image1993.jpg",
+        "confidence": 0.9073795080184937,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2008.jpg",
+        "confidence": 0.998232901096344,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2024.jpg",
+        "confidence": 2.6838475886137303e-11,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2044.jpg",
+        "confidence": 0.006612322758883238,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2064.jpg",
+        "confidence": 0.026702379807829857,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2087.jpg",
+        "confidence": 0.8402101397514343,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2123.jpg",
+        "confidence": 0.9838595986366272,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2215.jpg",
+        "confidence": 2.0901039232690266e-10,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2216.jpg",
+        "confidence": 0.012707802467048168,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2224.jpg",
+        "confidence": 3.0055114213362044e-13,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2230.jpg",
+        "confidence": 1.3943205203759135e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2262.jpg",
+        "confidence": 1.8419837874832112e-16,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image227.jpg",
+        "confidence": 0.00417642155662179,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2275.jpg",
+        "confidence": 0.9957878589630127,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2360.jpg",
+        "confidence": 3.826532840589536e-11,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2362.jpg",
+        "confidence": 7.354418357863324e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2390.jpg",
+        "confidence": 2.3049315390486518e-18,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2420.jpg",
+        "confidence": 6.711625005761945e-11,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2421.jpg",
+        "confidence": 4.695928368381175e-11,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2459.jpg",
+        "confidence": 0.0007459867047145963,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2539.jpg",
+        "confidence": 0.0001133513796958141,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2563.jpg",
+        "confidence": 6.007136155231572e-18,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image259.jpg",
+        "confidence": 0.9994111657142639,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2674.jpg",
+        "confidence": 0.9999998211860657,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2737.jpg",
+        "confidence": 1.5931674113289773e-07,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image279.jpg",
+        "confidence": 3.542599547046166e-10,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2812.jpg",
+        "confidence": 0.996016263961792,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image2904.jpg",
+        "confidence": 0.8932254910469055,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image295.jpg",
+        "confidence": 6.26450218987884e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image323.jpg",
+        "confidence": 1.1769974662456661e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image339.jpg",
+        "confidence": 0.16704605519771576,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image377.jpg",
+        "confidence": 0.892232358455658,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image389.jpg",
+        "confidence": 0.0018990935059264302,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image397.jpg",
+        "confidence": 0.4234101176261902,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image405.jpg",
+        "confidence": 1.9588228504829793e-16,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image416.jpg",
+        "confidence": 7.95116519147895e-15,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image422.jpg",
+        "confidence": 0.552733302116394,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image536.jpg",
+        "confidence": 0.024314546957612038,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image564.jpg",
+        "confidence": 0.588374137878418,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image586.jpg",
+        "confidence": 0.8375992774963379,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image593.jpg",
+        "confidence": 0.0002063317660940811,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image621.jpg",
+        "confidence": 2.6316461163022886e-11,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image69.jpg",
+        "confidence": 0.30029094219207764,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image693.jpg",
+        "confidence": 0.722287118434906,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image707.jpg",
+        "confidence": 0.4376239776611328,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image721.jpg",
+        "confidence": 6.831085610364829e-12,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image74.jpg",
+        "confidence": 0.9997699856758118,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image748.jpg",
+        "confidence": 7.683748748377184e-09,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image769.jpg",
+        "confidence": 0.05860445648431778,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image800.jpg",
+        "confidence": 0.11386847496032715,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image856.jpg",
+        "confidence": 0.0016205250285565853,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image87.jpg",
+        "confidence": 0.06135004013776779,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image878.jpg",
+        "confidence": 0.995574951171875,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image905.jpg",
+        "confidence": 1.3991491414344637e-06,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ai_image943.jpg",
+        "confidence": 3.5146000693098145e-11,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\napoleon.png",
+        "confidence": 7.756413833703846e-05,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\ross.png",
+        "confidence": 0.9242784380912781,
+        "category": "ai_generated",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/ai_generated\\_a_peaceful_countryside_Beaches_with_a__2edf54e5-d4e4-4507-abde-4f81b9754b54.png",
+        "confidence": 0.008569448255002499,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/ai_generated\\_portrait_of_a_stunning_Indian_v_95ff3e93-40ba-4dd8-90ed-d83729d37704-scaled.jpg",
+        "confidence": 0.0002145749022020027,
+        "category": "ai_generated",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\123.png",
+        "confidence": 0.6793399453163147,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\1594547853408.jpg",
+        "confidence": 0.999627947807312,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\1604412269947.jpg",
+        "confidence": 0.0013648251770064235,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\1606042090871.png",
+        "confidence": 0.8782744407653809,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\1613816572622.jpg",
+        "confidence": 0.280276358127594,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\1659561494009124.jpg",
+        "confidence": 0.16936273872852325,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\1659660845183836.jpg",
+        "confidence": 0.9484757781028748,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\1659660944371279.jpg",
+        "confidence": 0.9108498692512512,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\1666459716971479.png",
+        "confidence": 0.9954912066459656,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\1668547789493603.jpg",
+        "confidence": 0.10638324171304703,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\2.jpg",
+        "confidence": 0.0023197499103844166,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\3um7q9qu65x71.jpg",
+        "confidence": 0.0004005692608188838,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\4F318648-7C2C-4FD8-8206-63BA9966CE6C.JPG",
+        "confidence": 0.9999313354492188,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\4K Brooklyn Bridge.jpg",
+        "confidence": 0.0005782099324278533,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\9.jpg",
+        "confidence": 0.9982092380523682,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\andreas-r\u00a2nningen-w3lQVmuK8fw.jpg",
+        "confidence": 0.010019546374678612,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\bailey-zindel-396398-unsplash.jpg",
+        "confidence": 0.3918205201625824,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\big_sur_day_6k.jpg",
+        "confidence": 0.8177915215492249,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\big_sur_night_6k.jpg",
+        "confidence": 0.002658821875229478,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\bmw-e30-m3-redux-09.jpg",
+        "confidence": 0.011723118834197521,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\eugene-triguba-CVO3TozRVp8-unsplash.jpg",
+        "confidence": 0.05238430202007294,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\ferrari_f1_75_2022_formula_1_5k_2-3840x2160.jpg",
+        "confidence": 0.9941118359565735,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\h3XN0X7prf7HSOmPvQnlwcsBr7zvEobvEbVHZsJVVCA.png",
+        "confidence": 0.7798159718513489,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\hnvc8byb0zb91.png",
+        "confidence": 0.9944192171096802,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\iceland.png",
+        "confidence": 0.9938691258430481,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\IMG_0077.JPG",
+        "confidence": 0.5542595386505127,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\IMG_0084.JPG",
+        "confidence": 0.0012940247543156147,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\IMG_0130.JPG",
+        "confidence": 0.02300223335623741,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\IMG_0261.JPG",
+        "confidence": 0.998202919960022,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\IMG_0325.JPG",
+        "confidence": 0.971689760684967,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\IMG_0462.JPG",
+        "confidence": 0.06354030221700668,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\IMG_0520.JPG",
+        "confidence": 0.9819141030311584,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\j7ycxlx8ui991.jpg",
+        "confidence": 4.5108215999789536e-05,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\Lost Paradise.jpg",
+        "confidence": 0.1207151710987091,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\Mountains.jpg",
+        "confidence": 0.9937998652458191,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\papers.co-nx02-mountain-summer-nature-3840x2400.jpg",
+        "confidence": 0.8862442970275879,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\pkxegs9v7rl71.jpg",
+        "confidence": 0.973742663860321,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\qdkzaxjb0zb91.png",
+        "confidence": 0.9391613602638245,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\rdgsebs.png",
+        "confidence": 0.9261745810508728,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\Roadster.png",
+        "confidence": 0.9995335936546326,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\road_marking_trees_137674_1920x1080.jpg",
+        "confidence": 0.011072196997702122,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\ross.jpg",
+        "confidence": 0.9998632669448853,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\rxgujmtg0zb91s.png",
+        "confidence": 0.9999238848686218,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\Solferino Bridge.jpg",
+        "confidence": 0.4702128767967224,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\Tesla Larte.jpg",
+        "confidence": 0.997490644454956,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\tobias-huske-339610-unsplash.jpg",
+        "confidence": 0.23834407329559326,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\wp4473714-5120x1440-wallpapers.jpg",
+        "confidence": 0.08104495704174042,
+        "category": "real",
+        "verdict": "ai_generated"
+    },
+    {
+        "image_path": "./input/real\\XPB_1033617_HiRes.jpg",
+        "confidence": 0.8547436594963074,
+        "category": "real",
+        "verdict": "real"
+    },
+    {
+        "image_path": "./input/real\\Yosemite.jpg",
+        "confidence": 0.43236321210861206,
+        "category": "real",
+        "verdict": "ai_generated"
+    }
+]

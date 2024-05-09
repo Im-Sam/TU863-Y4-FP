@@ -28,10 +28,13 @@ def process_directory(directory, thresholds):
         if filename.lower().endswith('.jpg') or filename.lower().endswith('.png'):
             image_path = os.path.join(directory, filename)
             confidence = predict_image(image_path)
+            # Determine verdict based on the best suitable threshold (for simplicity, using the first threshold in this example)
+            verdict = 'real' if confidence > thresholds[0] else 'ai_generated'
             image_result = {
                 'image_path': image_path,
                 'confidence': float(confidence),
-                'category': category
+                'category': category,
+                'verdict': verdict  # Add verdict based on the confidence
             }
             results.append(image_result)
             
@@ -46,8 +49,9 @@ def process_directory(directory, thresholds):
 
     return results, summary, category_summary
 
+
 def main():
-    thresholds = [0.15]  # Define multiple confidence thresholds
+    thresholds = [0.5]  # Define multiple confidence thresholds
     input_dirs = ['./input/ai_generated', './input/real']
     detailed_results = []
     overall_summary = {threshold: {'total': 0, 'correct': 0} for threshold in thresholds}
