@@ -1,4 +1,4 @@
-*.png
-*.jpg
-*.jpeg
-*.h5
+new/input/*
+new/models/*
+new/input-archive/*
+new/dataset/*
