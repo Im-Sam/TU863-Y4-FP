@@ -1,0 +1,10 @@
+{
+    "real": {
+        "total": 200,
+        "correct": 81
+    },
+    "ai_generated": {
+        "total": 190,
+        "correct": 165
+    }
+}

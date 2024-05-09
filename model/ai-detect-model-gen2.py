@@ -2,6 +2,7 @@ import tensorflow as tf
 import keras
 from tensorflow.keras import layers, models
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.callbacks import EarlyStopping
 from PIL import Image 
 from matplotlib import pyplot as plt
 Image.MAX_IMAGE_PIXELS = 1000000000 
