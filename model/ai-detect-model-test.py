@@ -46,7 +46,7 @@ def process_directory(directory):
     return results
 
 def main():
-    input_dirs = ['./input/real']
+    input_dirs = ['./input/real', './input/ai_generated']
     results = {}
 
     for directory in input_dirs:
